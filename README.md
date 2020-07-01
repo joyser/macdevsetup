@@ -1,4 +1,4 @@
-# macdevsetup with python 3.7 & anaconda
+# macdevsetup with zsh, oh-my-zsh, python 3.7 & anaconda
 
 https://stackoverflow.com/questions/58044214/installing-anaconda-with-pyenv-unable-to-configure-virtual-environment
 https://stackoverflow.com/questions/57640272/how-can-i-install-anaconda-aside-an-existing-pyenv-installation-on-osx
