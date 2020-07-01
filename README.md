@@ -13,6 +13,7 @@ Note: not recomended to run base anaconda anvironment as per SO answers below.
 
 
 https://brew.sh/
+
 https://stackoverflow.com/questions/58044214/installing-anaconda-with-pyenv-unable-to-configure-virtual-environment
 https://stackoverflow.com/questions/57640272/how-can-i-install-anaconda-aside-an-existing-pyenv-installation-on-osx
 https://www.anaconda.com/blog/using-pip-in-a-conda-environment
