@@ -7,9 +7,10 @@
 4. ensure zsh is default bash
 5. `brew install coreutils`
 6. install pyenv (python version manager) by following these instructions https://github.com/pyenv/pyenv#basic-github-checkout
-7. installing anaconda `brew cask install anaconda`
-8. conda won't work until .zsh has conda added to the path, `conda init zsh` does this but needs to be run from conda's executable (because conda not in path) `/usr/local/anaconda3/bin/conda init zsh`
-9. Disable the base environment for conda `conda config --set auto_activate_base false`
+7. NB. Apple chip laptops only, need to run do `softwareupdate --install-rosetta`; installs software so older archecture packages can run. 
+8. installing anaconda `brew cask install anaconda`
+9. conda won't work until .zsh has conda added to the path, `conda init zsh` does this but needs to be run from conda's executable (because conda not in path) For old macs: `/usr/local/anaconda3/bin/conda init zsh` For new macs: `/opt/homebrew/anaconda3/bin/conda init zsh`
+10. Disable the base environment for conda `conda config --set auto_activate_base false`
 Note: not recomended to run base anaconda anvironment as per SO answers below.
 
 
